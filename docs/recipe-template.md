@@ -26,11 +26,4 @@ icon: lucide/smile
 - Any additional notes about the recipe
 - Variations or tips
 
-!!! note
-    You can add special notes or warnings here or along the way, if you're feeling fancy!
-
-### Reviews (optional):
-- Reviewer 1: "This recipe was fantastic! I loved it because..."
-- Reviewer 2: "I made this for my family and they said..."
-
 ```

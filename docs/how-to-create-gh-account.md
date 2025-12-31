@@ -11,14 +11,12 @@ Creating a GitHub account is free and easy. Follow the steps below to get starte
     - **Email Address**: Provide a valid email address. <br>
     - **Password**: Create a password for your account.
     <br><br>
+    Then hit the "**Create account**" button.<br><br>
+    Note: You shouldn't have to give any payment info because this should set you up with a free account. <br><br>
 4. **Verify Your Account**  
    Complete the verification process by following the prompts (this may include solving a puzzle or entering a code sent to your email). <br><br>
-5. **Choose Your Plan**  
-   Select the free plan. <br><br>
-6. **Personalize Your Experience**  
-   You may be prompted to answer a few questions about how you plan to use GitHub. This step is optional and can be skipped. <br><br>
-7. **Complete the Setup**  
-   Click on the "Complete setup" button to finalize your account creation. <br><br>
+5. **Log in**  
+   You should now be able to log in to your new GitHub account using your username and password. <br><br>
 
 As a note, you may have to dodge all the training and "Welcome to GitHub" messages, feel free to learn if you'd like, but also I'll show you how to add recipes without needing to know much about GitHub itself. <br><br>
 
